@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.commandcode/taste/
+final.pptx
+qa/
